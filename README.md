@@ -8,6 +8,7 @@ Regno: 212224040158
 EXP NO:1 C PROGRAM FOR ARRAY OF STRUCTURE TO CHECK ELIGIBILITY FOR THE VACCINE.
 
 Aim:
+
 To write a C program for array of structure to check eligibility for the vaccine person age above 6 years of age.
 
 Algorithm:
@@ -59,12 +60,15 @@ Output:
 
 
 Result:
+
 Thus, the program is verified successfully. 
 
 
 
 EXP NO:2 C PROGRAM FOR PASSING STRUCTURES AS FUNCTION ARGUMENTS AND RETURNING A STRUCTURE FROM A FUNCTION
+
 Aim:
+
 To write a C program for passing structure as function and returning a structure from a function
 
 Algorithm:
@@ -176,8 +180,11 @@ Thus, the program is verified successfully
 
 
 EXP NO:4   PROGRAM TO READ A FILE NAME FROM USER, WRITE THAT FILE AND INSERT TEXT IN TO THAT FILE
+
 Aim:
+
 To write a C program to read, a file and insert text in that file
+
 Algorithm:
 1.	Include the necessary header file stdio.h.
 2.	Begin the main function.
@@ -233,6 +240,7 @@ Thus, the program is verified successfully
 Ex No 5 : C PROGRAM TO DISPLAY STUDENT DETAILS USING STRUCTURE
 
 Aim:
+
 The aim of this program is to dynamically allocate memory to store information about multiple subjects (name and marks), input the details for each subject, and then display the stored information. Finally, it frees the allocated memory to prevent memory leaks.
 
 Algorithm:
